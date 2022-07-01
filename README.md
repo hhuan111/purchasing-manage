@@ -17,7 +17,7 @@ JDK1.8、Maven、Mysql、IntelliJ IDEA
 实时展示系统相关信息
 
 ![](images/1.gif)
-#### 3.5 采购计划
+#### 3.3 采购计划
 ![](images/4.gif)
 #### 3.4 采购管理
 ![](images/3.gif)
