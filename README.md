@@ -1,5 +1,5 @@
 # purchasing-manage
-## 基于 SpringBoot + LayUI 的停车场管理信息系统项目
+## 基于 SpringBoot + Vue 的政府采购管理系统项目
 ### 1.运行环境
 JDK1.8、Maven、Mysql、IntelliJ IDEA
 ### 2.使用教程
