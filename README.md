@@ -37,4 +37,4 @@ JDK1.8、Maven、Mysql、IntelliJ IDEA
 #### 3.10 角色/菜单管理
 ![](images/8.gif)
 
-![](images/9.gif)
+![](images/9.gif)# purchasing-manage
