@@ -1,0 +1,198 @@
+1、整理接口（两个系统的接口差异）
+2、execl表格数据库表和字段整理
+
+
+3、前端运行：cnpm/npm run serve
+
+
+UserController
+POST /user User
+
+POST /user/login UserDto
+
+POST /user/register UserDto
+
+POST /user/password UserPasswordDto
+
+DELTTE /user/{id}  id
+
+POST /user/del/batch  List<>ids
+
+GET /user
+
+GET /user/role/{role} role
+
+GET /user/{id}
+
+GET /user/username/{username}
+
+GET/user/page
+
+GET /user/export
+
+POST /user/import
+
+SupplierController
+POST /supplier Supplier
+
+DELTTE /supplier/  id
+
+POST /supplier/del/batch List<>ids
+
+GET /supplier
+
+GET /supplier/{id}
+
+GET /supplier/page
+
+GET /supplier/export
+
+POST /supplier/import
+
+RoleController
+POST /role  Role
+
+DELTTE /role  id
+
+POST /role/del/batch List<>ids
+
+GET /role 
+
+GET /role/{id}
+
+GET /role/page
+
+GET /role/roleMenu/{roleId}
+
+POST /role/roleMenu/{roleId}
+
+PurchaseController
+POST /purchase Purchase
+
+DELTTE /purchase/{id}  id
+
+POST /purchase/del/batch List<>ids
+
+GET /purchase
+
+GET /purchase/{id}
+
+GET /purchase/page
+
+PlanController
+POST /plan Plan
+
+DELTTE /plan/{id}  id
+
+POST /plan/del/batch List<>ids
+
+GET /plan
+
+GET /plan/{id}
+
+GET /plan/page
+
+GET /plan/export
+
+POST /plan/import
+
+MenuController
+POST /menu Menu
+
+DELTTE /menu/{id}  id
+
+POST /menu/del/batch List<>ids
+
+GET /menu
+
+GET /menu/{id}
+
+GET /menu/page
+
+GET /menu/icons
+
+GoodController
+POST /good Good
+
+DELTTE /good/{id}  id
+
+POST /good/del/batch List<>ids
+
+GET /good
+
+GET /good/goodTypes
+
+GET /good/{id}
+
+GET /good/page
+
+GET /good/export
+
+POST /good/import
+
+FileController
+POST  /file/upload
+
+GET /file/{fileUUID}
+
+POST  /file/update
+
+DELTTE /file/{id}
+
+POST  /file/del/batch
+
+GET /file/page
+
+EchartsController
+GET  /echarts/example1
+
+GET  /echarts/members
+
+GET  /echarts/file/front/all
+
+DocumentController
+POST  /document
+
+DELTTE /document/{id}
+
+POST  /document/del/batch
+
+GET  /document
+
+GET  /document/{id}
+
+GET  /document/page
+
+DeptController
+POST  /dept
+
+DELTTE /dept/{id}
+
+POST  /dept/del/batch
+
+GET  /dept
+
+GET  /dept/deptTypes
+
+GET  /dept/{id}
+
+GET  /dept/page
+
+GET  /dept/export
+
+GET  /dept/import
+
+CancelController
+POST  /cancel
+
+DELTTE /cancel/{id}
+
+POST  /cancel/del/batch
+
+GET  /cancel
+
+GET  /cancel/{id}
+
+GET  /cancel/page
+
+

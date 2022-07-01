@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.hhuan.purchasing.mapper.PlanMapper">
+
+    <select id="findPage" resultType="com.hhuan.purchasing.entity.Plan">
+        select bu_plan.* ,info_dept.name as department from bu_plan
+        left join info_dept
+        on bu_plan.department_id = info_dept.id
+        <where>
+            <if test="name!=null and name!=''">
+                and bu_plan.name like concat('%',#{name},'%')
+            </if>
+        </where>
+    </select>
+
+</mapper>
