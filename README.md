@@ -10,31 +10,31 @@ JDK1.8、Maven、Mysql、IntelliJ IDEA
 ### 3.内置功能及演示图
 该管理系统主要由以下三种身份构成：超级管理员、单位管理员、供应商；主要实现了三大方面：采购预算管理，采购交易管理以及采购信息管理。
 #### 3.1 登录/注册
-![](README_files/1.jpg)
-![](README_files/2.jpg)
+![](images/1.jpg)
+![](images/2.jpg)
 #### 3.2 主页
 实时展示系统相关信息
 
-![](README_files/1.gif)
+![](images/1.gif)
 #### 3.5 采购计划
-![](README_files/4.gif)
+![](images/4.gif)
 #### 3.4 采购管理
-![](README_files/3.gif)
+![](images/3.gif)
 #### 3.5 商品管理
 对商品进行增删改查，可以导入导入
 
-![](README_files/5.gif)
+![](images/5.gif)
 #### 3.6 文件管理
-![](README_files/2.gif)
+![](images/2.gif)
 #### 3.7 合同管理
 增删改查，可上传合同文件
 
-![](README_files/6.gif)
+![](images/6.gif)
 #### 3.8 个人信息管理
-![](README_files/7.gif)
+![](images/7.gif)
 #### 3.9 用户管理
-![](README_files/3.jpg)
+![](images/3.jpg)
 #### 3.10 角色/菜单管理
-![](README_files/8.gif)
+![](images/8.gif)
 
-![](README_files/9.gif)
+![](images/9.gif)
