@@ -12,10 +12,6 @@ JDK 1.8
 
 3.1登录/注册
 
-![image](https://user-images.githubusercontent.com/48850111/176862376-b60e487c-c318-43e7-8644-20d6d5c07e58.png)
-
-![image](https://user-images.githubusercontent.com/48850111/176862394-5e3d682f-63b0-4daf-8593-ef8eeab29100.png)
-
 3.2主页
 
 
