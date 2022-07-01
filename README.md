@@ -18,5 +18,5 @@ JDK 1.8
 
 3.2主页
 
-![image](https://user-images.githubusercontent.com/48850111/176862445-b93f89eb-f14a-49ce-8b5d-6d130cb5d715.png)
+![gif](https://user-images.githubusercontent.com/48850111/176862445-b93f89eb-f14a-49ce-8b5d-6d130cb5d715.gif)
 
