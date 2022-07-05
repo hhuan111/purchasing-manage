@@ -10,31 +10,31 @@ JDK1.8、Maven、Mysql、IntelliJ IDEA
 ### 3.内置功能及演示图
 该管理系统主要由以下三种身份构成：超级管理员、单位管理员、供应商；主要实现了三大方面：采购预算管理，采购交易管理以及采购信息管理。
 #### 3.1 登录/注册
-![](images/1.jpg)
+![image](https://github.com/hhuan111/purchasing-manage/blob/main/images/1.jpg)
 
-![](images/2.jpg)
+![image](https://github.com/hhuan111/purchasing-manage/blob/main/images/2.jpg)
 #### 3.2 主页
 实时展示系统相关信息
 
-![](images/1.gif)
+![image](https://github.com/hhuan111/purchasing-manage/blob/main/images/1.gif)
 #### 3.3 采购计划
-![](images/4.gif)
+![image](https://github.com/hhuan111/purchasing-manage/blob/main/images/4.gif)
 #### 3.4 采购管理
-![](images/3.gif)
+![image](https://github.com/hhuan111/purchasing-manage/blob/main/images/3.gif)
 #### 3.5 商品管理
 对商品进行增删改查，可以导入导入
 
-![](images/5.gif)
+![image](https://github.com/hhuan111/purchasing-manage/blob/main/images/5.gif)
 #### 3.6 文件管理
-![](images/2.gif)
+![image](https://github.com/hhuan111/purchasing-manage/blob/main/images/2.gif)
 #### 3.7 合同管理
 增删改查，可上传合同文件
 
-![](images/6.gif)
+![image](https://github.com/hhuan111/purchasing-manage/blob/main/images/6.gif)
 #### 3.8 个人信息管理
-![](images/7.gif)
+![image](https://github.com/hhuan111/purchasing-manage/blob/main/images/7.gif)
 
 #### 3.9 角色/菜单管理
-![](images/8.gif)
+![image](https://github.com/hhuan111/purchasing-manage/blob/main/images/8.gif)
 
-![](images/9.gif)
+![image](https://github.com/hhuan111/purchasing-manage/blob/main/images/9.gif)
